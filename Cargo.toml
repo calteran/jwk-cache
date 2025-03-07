@@ -1,0 +1,12 @@
+[package]
+name = "jwk-cache"
+version = "0.1.0"
+edition = "2024"
+description = "A crate to resiliantly cache JWKs from multiple OIDC Identity Providers"
+readme = "README.md"
+repository = "https://github.com/calteran/jwk-cache"
+license = "MIT OR Apache-2.0"
+keywords = ["jwk", "jsonwebtoken", "oidc", "cache"]
+categories = ["authentication", "caching", "web-programming"]
+
+[dependencies]
